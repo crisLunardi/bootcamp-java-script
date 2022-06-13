@@ -52,4 +52,3 @@ console.log(string[5]);
     
     No JavaScript, basta usar o operador maior que e menor que.
 */
-
