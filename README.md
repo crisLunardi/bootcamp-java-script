@@ -1,7 +1,10 @@
-# bootcamp-java-script-digital-innovation-one
-🎒Repositório para guardar conceitos sobre JavaScript e exercícios realizados no Santander Bootcamp Fullstack Developer
+# BootCamp JavaScript 
 
-👉 Referências técnicas: 
+🎒Repositório para estudos de conceitos sobre o JavaScript e prática através da resoluções de exercícios. 
 
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures;
-https://web.dio.me/track/santander-bootcamp-fullstack-developer
+👉Abaixo encontra-se todas as referências técnicas utilizadas:
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript;<br>
+https://www.youtube.com/c/codigofontetv
+
+
