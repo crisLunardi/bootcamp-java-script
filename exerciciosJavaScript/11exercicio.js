@@ -16,6 +16,6 @@ function mediaArray(array) {
     return soma / cumprimentoDoArray;
 };
 
-var array = [1, 3, 9, 15, 90];
+var array = [1, 3, 9, 15, 90]; // Criação de uma variável que recebe um array de números.
 
 console.log(`A média aritmética do array é ${mediaArray(array)}`);
